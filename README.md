@@ -2,6 +2,8 @@
 
 This project implements a Generative Adversarial Network (GAN) using PyTorch to generate images of vehicles (e.g., vans, cars, SUVs) from aerial views.
 
+![main structure](images/GAN.jpg)
+
 ## Project Structure
 ```
 my_gan_project/
